@@ -1,0 +1,40 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Chamber"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aliquip nisi quis ullamco. Incididunt id non reprehenderit nulla magna ullamco eu enim excepteur officia minim reprehenderit incididunt. Dolor reprehenderit adipisicing voluptate mollit nostrud nisi non magna velit laboris Lorem."
+						}
+					}
+				]
+			},
+			"button": {
+				"__TYPE__": "LinkContent",
+				"key": "52ce6a7f-7ff6-4bb6-b840-6d3942d9d960",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com",
+					"text": "central"
+				}
+			}
+		},
+		"items": []
+	}
+]
